@@ -87,11 +87,11 @@ A Flutter recipe app with search, ratings, ingredients, and step-by-step instruc
 
 ## 📊 GitHub Stats
 
-![Devendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev241007&show_icons=true&theme=tokyonight)
+![Devendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devendra241007&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev241007&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra241007&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dev241007&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Devendra241007&theme=tokyonight)
 
 ---
 
