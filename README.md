@@ -98,7 +98,7 @@ A Flutter recipe app with search, ratings, ingredients, and step-by-step instruc
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/devendrajethava  
-- 📧 Email: jethavadevendra27@gmail.com  
+- 📧 Email: jethavadevendra24@gmail.com  
 
 ---
 
