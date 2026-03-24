@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Devendra Jethva
 
-<!--
-**Devendra241007/Devendra241007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Android Developer  
+🔐 Interested in Security & App Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 Computer Engineering Student  
+- 📱 Building Flutter apps  
+- 🔐 Created SecureVault (MFA App)  
+- 🐉 Built Westeros Lore App (Firebase-based)  
+
+---
+
+## 🛠 Tech Stack
+- Flutter & Dart  
+- Firebase  
+- REST APIs  
+- Git & GitHub  
+
+---
+
+## 🚀 Projects
+
+### 🔐 SecureVault
+Multi-factor authentication app with OTP, fingerprint, and threat detection  
+👉 https://github.com/YOUR_USERNAME/SecureVault  
+
+### 🐉 Westeros App
+Game of Thrones lore app using Firebase Realtime Database  
+👉 https://github.com/YOUR_USERNAME/westeros  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- GitHub: https://github.com/YOUR_USERNAME  
+
+---
