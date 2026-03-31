@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Developer;Node.js+Learner;Firebase+Enthusiast;Building+Real+World+Apps&center=true&width=500&height=50)
 
-🚀 *Coding is not just building — it’s pushing beyond limits.*
 
 ---
 
