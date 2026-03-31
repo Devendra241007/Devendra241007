@@ -69,7 +69,7 @@ This is where limits are tested.
 
 ### 🔐 SecureVault  
 A multi-factor authentication app with password hashing, biometric login, OTP verification, and threat detection.  
-👉 https://github.com/Dev241007/SecureVault  
+👉 https://github.com/Devendra241007/SecureVault  
 
 ---
 
