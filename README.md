@@ -4,6 +4,26 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Developer;Node.js+Learner;Firebase+Enthusiast;Building+Real+World+Apps&center=true&width=500&height=50)
 
+🚀 *Coding is not just building — it’s pushing beyond limits.*
+
+---
+
+## 🏁 Developer Philosophy
+
+> To others, it’s just coding.  
+> To me, it’s competition — and I compete to win.  
+>
+> — Devendra Jethava
+
+When I sit at the keyboard, I’m not just building apps.  
+I’m pushing limits, solving problems, and becoming better than yesterday.
+
+Every line of code matters.  
+Every solution is a step forward.
+
+This is not just development.  
+This is where limits are tested.
+
 ---
 
 ## 🧑‍💻 About Me
@@ -111,4 +131,4 @@ If you like my work:
 
 ---
 
-🚀 *Always open to learning, collaboration, and new opportunities.*
+🚀 *I don’t code to finish tasks. I code to push limits.*
